@@ -1,4 +1,4 @@
-## Hi There, I'm Joey - aka [codeSTACKr][website] 👋
+## Hi There, I'm Joey
 
 
 

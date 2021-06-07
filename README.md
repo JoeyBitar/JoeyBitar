@@ -1,4 +1,4 @@
-## Hi There, I'm Joey
+## Hi There, I'm Joey!
 
 <a href="https://www.instagram.com/joey_bitar/">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/svg's/instagram.svg" />

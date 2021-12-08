@@ -22,5 +22,5 @@ Hi, I'm Joey Bitar, a fourth year Computer Science Software Engineering stream s
 - Python Web-Crawler
 - Bug Tracker (POSTPONED)
 
-
+**Languages:** 
 

@@ -24,7 +24,7 @@ Hi, I'm Joey Bitar, a fourth year Computer Science Software Engineering stream s
 
 **Languages:** 
 <br />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/java.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/java.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/javascript.png" />

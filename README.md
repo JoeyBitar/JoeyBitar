@@ -23,4 +23,4 @@ Hi, I'm Joey Bitar, a fourth year Computer Science Software Engineering stream s
 - Bug Tracker (POSTPONED)
 
 **Languages:** 
-
+<img align="left" alt="Anurag's LinkedIn" width="21px"src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/git.png" />

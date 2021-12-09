@@ -24,10 +24,10 @@ Hi, I'm Joey Bitar, a fourth year Computer Science Software Engineering stream s
 
 **Languages:** 
 <br />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/c.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/c.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/c++.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/python.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/prolog.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/prolog.png" />
 
 
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/JoeyBitar/JoeyBitar/master/png's/java.png" />
